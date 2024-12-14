@@ -10,9 +10,9 @@ excerpt: 'A CPSWeek event'
 
 organizers_row:
   - image_path: https://cloud.minesparis.psl.eu/index.php/s/8Ih7coZPaAkRkId/download
-    alt: "Sascha"
-    person_name: "Sascha Hornauer"
-    person_affiliation: "MINES Paris"
+    alt: "Shashank"
+    person_name: "Shashank Gaur"
+    person_affiliation: "TTTech Auto"
   - image_path: https://cloud.minesparis.psl.eu/index.php/s/QdPGyNJqiVWReXo/download
     alt: "Marcel"
     person_name: "Marcel Hallgarten"
@@ -21,34 +21,7 @@ organizers_row:
     alt: "Max"
     person_name: "Maximilian Naumann"
     person_affiliation: "Bosch Center for Artificial Intelligence (BCAI)"
-  - image_path: https://cloud.minesparis.psl.eu/index.php/s/xUp0YRt2gkYeCrW/download
-    alt: "Eike"
-    person_name: "Eike Rehder"
-    person_affiliation: "Robert Bosch GmbH"
-  - image_path: https://cloud.minesparis.psl.eu/index.php/s/EeNQ4Sd6Xvd3bpj/download
-    alt: "Jiachen"
-    person_name: "Jiachen Li"
-    person_affiliation: "Stanford University"
-  - image_path: https://cloud.minesparis.psl.eu/index.php/s/St0MsMoWj08Ui6K/download
-    alt: "Wei"
-    person_name: "Wei Zhan"
-    person_affiliation: "University of California at Berkeley"
-  - image_path: https://cloud.minesparis.psl.eu/index.php/s/nR8bFlVEe4QlsPp/download
-    alt: "Martin"
-    person_name: "Martin Lauer"
-    person_affiliation: "Karlsruhe Institute of Technology (KIT)"
-  - image_path: https://cloud.minesparis.psl.eu/index.php/s/QATKLUjJ1l2BA6F/download
-    alt: "Masayoshi"
-    person_name: "Masayoshi Tomizuka"
-    person_affiliation: "University of California at Berkeley"
-  - image_path: https://cloud.minesparis.psl.eu/index.php/s/EHn5azQzYNmRmM0/download
-    alt: "Arnaud"
-    person_name: "Arnaud de La Fortelle"
-    person_affiliation: "Heex Technologies"
-  - image_path: https://cloud.minesparis.psl.eu/index.php/s/F2fdqs7ZuidY5fW/download
-    alt: "Christoph"
-    person_name: "Christoph Stiller"
-    person_affiliation: "Karlsruhe Institute of Technology (KIT)"
+ 
 
 schedule:
 
