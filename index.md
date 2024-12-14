@@ -62,6 +62,6 @@ Research on Automated Vehicles has experienced vast progress over the last decad
 {% include feature_row id="organizers_row" %}
 
 
-Please get in touch with  [shashank.gaur@tttech-auto.com](shashank.gaur@tttech-auto.com) or any of the organizers in case you have any further questions.
+Please get in touch with shashank.gaur(at)tttech-auto.com or any of the organizers in case you have any further questions.
 
 
