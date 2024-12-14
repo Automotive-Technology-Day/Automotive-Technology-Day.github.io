@@ -9,7 +9,7 @@ title: 'Autmotive Technology Day: Enabling Technologies for Software-Defined Veh
 excerpt: 'A CPSWeek event'
 
 organizers_row:
-  - image_path: https://cloud.minesparis.psl.eu/index.php/s/8Ih7coZPaAkRkId/download
+  - image_path: assets/images/Shashank_Cropped.jpg
     alt: "Shashank"
     person_name: "Shashank Gaur"
     person_affiliation: "TTTech Auto"
