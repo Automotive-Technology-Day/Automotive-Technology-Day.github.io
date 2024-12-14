@@ -27,8 +27,7 @@ schedule:
 
 ---
 
-This workshop will be held at the [27th IEEE International Conference on Intelligent Transportation Systems (ITSC)](https://ieee-itsc.org/2024/), on September 24 - 27, 2024
-Edmonton, Canada 
+This Event will be held at the CPSWeek 2025.
 
 ## Topics
 The topics of interest of the workshop include, but are not limited to:
@@ -39,8 +38,6 @@ The topics of interest of the workshop include, but are not limited to:
 - Second-order effects in heavy interactive scenarios
 - Evaluation and benchmarking of the aforementioned topics
 
-
-Please check the official program for potential updates: [https://ieee-itsc.org/2024/program/](https://ieee-itsc.org/2024/program/)
 
 ## Workshop Content
 
@@ -65,8 +62,6 @@ Research on Automated Vehicles has experienced vast progress over the last decad
 {% include feature_row id="organizers_row" %}
 
 
-Please get in touch with  [sascha.hornauer@mines-paristech.fr](sascha.hornauer@mines-paristech.fr) or any of the organizers in case you have any further questions.
+Please get in touch with  [shashank.gaur@tttech-auto.com](shashank.gaur@tttech-auto.com) or any of the organizers in case you have any further questions.
 
-## Past Editions
 
-At IV2024, the organizers hosted the latest edition of this workshop: [https://kit-mrt.github.io/iv2024-workshop/](https://kit-mrt.github.io/iv2024-workshop/).
