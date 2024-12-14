@@ -14,17 +14,17 @@ organizers_row:
     person_name: "Shashank Gaur"
     person_affiliation: "TTTech Auto"
   - image_path: assets/images/Bloor.jpg
-    alt: "Thomas"
+    alt: "Bloor"
     person_name: "Thomas Bloor"
     person_affiliation: "RTI"
   - image_path: assets/images/Andreas_Bosch.jpg
     alt: "Andrea"
     person_name: "Andreas Achtzehm"
     person_affiliation: "Bosch"
-  - image_path: assets/images/Jyotika_Athavale.jpg
-    alt: "Joytika"
-    person_name: "Jyotika Athavale"
-    person_affiliation: "Synosys"
+  - image_path: assets/images/placeholder.jpg
+    alt: "Thomas"
+    person_name: "Thomas Kuehbeck"
+    person_affiliation: "Woven by Toyota"
  
 
 schedule:
@@ -57,6 +57,11 @@ This event invites OEMs, suppliers, silicon vendors, tool providers, experts, sc
 
 ## Call for Submissions
 To be announced soon.
+
+Submission may come from both acamdemia and industry with one page abstract to define challenges on a relevant area/topics. Abstract must include three major components: 
+- Problem Statement within selected topic/area
+- Specific Use Cases targeted with the porposed solution/discussion
+- Potential KPIs and Assumptions for the solutions adoption 
 
 ## Organizers
 {% include feature_row id="organizers_row" %}
