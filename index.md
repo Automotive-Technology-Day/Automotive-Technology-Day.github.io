@@ -28,32 +28,30 @@ schedule:
 ---
 
 This Event will be held at the CPSWeek 2025.
+## Workshop Scope
+
+The transition to Software-Defined Vehicles (SDVs) necessitates a shift from distributed to high-performance more centralized and zonal E/E architecture, driven by the requirements for continuous updates, better user experience, and advanced functionalities. This transformation complicates the integration of safety-critical applications due to the rapidly increasing demands on software and hardware. Traditional OEMs, relying on various suppliers, face challenges in deployment with frequent updates, resource optimization, and managing different ECU/vehicle variants. Many existing solutions lack flexibility, leading to increased testing efforts, unreliable critical functions, and timeline delays. Addressing these issues require formal description of the SW functions and communication, automation in deployment, the separation of safe and unsafe software, predictable resource utilization, and dynamic configuration of communication networks with end-to-end guarantees. This event invites presentations aiming at solutions for these challenges as well as extended issues that safety-critical and real-time systems encounter in the automotive industry.  
 
 ## Topics
-The topics of interest of the workshop include, but are not limited to:
+This event invites OEMs, suppliers, silicon vendors, tool providers, experts, scientists, and leaders to exchange ideas and discuss trends. Submissions for abstracts for presentations are invited around solutions and technologies relevant to SDVs such as following but not limited to: 
 
-- Cooperative and comprehensible motion planning 
-- Probabilistic decision making and motion planning (including MDPs, POMDPs, MMDPs) 
-- Probabilistic behavior prediction (with help of semantic high-definition maps) 
-- Second-order effects in heavy interactive scenarios
-- Evaluation and benchmarking of the aforementioned topics
-
-
-## Workshop Content
-
-Research on Automated Vehicles has experienced vast progress over the last decades. Today, first prototypes are sufficiently safe to drive on selected roads in public traffic. Nevertheless, safety comes at the price of overly conservative behavior, leading to inconvenient situations, for example, at unprotected left turns or merging scenarios. Presumably, the main reasons for this behavior include (a) errors in the prediction of other traffic participants, especially in interactive scenarios and (b) the lack of probabilistic considerations in motion planning. 
-
-
-**Comfortable Automated Driving**: While safety should never be put at risk, worst case behavior of others should not be the default for the motion plan of an automated vehicle. Rather, with a safe reaction to such worst case behavior always in reserve the intended trajectory should be comfortable, less conservative and thereby potentially closer to human expectations. Proposal and exchange of these kind of approaches is the first aim of the workshop. 
-
-
-**Multimodal Behavior Prediction**: For such behavior, sophisticated behavior prediction approaches for other traffic participants are necessary, going beyond constant velocity assumptions. Predictions must be probabilistic and allow for maneuver options for other vehicles. Often, there is not “the right prediction”, but many. The choice is influenced by destinations as much as individual driving behaviors and potentially even the drivers’ mood. Thus, a simple evaluation against a ground truth is not possible. Prediction approaches, including but not limited to machine learning based approaches, as well as proposals for their evaluation, are the second main goal of this workshop.
-
-
-**Comprehensible Automated Driving**: For motion planning in highly interactive scenarios alike, a “ground truth” or “best option” may not exist. To be comprehensible and predictable for other road users, a good plan should be a subset of an expected prediction for a vehicle in the same situation. The combination of planning and prediction, including but not limited to their evaluation and benchmarking, is the third aim of the proposed workshop.
+- Middleware solutions for Software Defined Vehicles
+- Modeling solutions for mixed criticality systems
+- Solutions for Timing and Communication guarantees in cloud based architectures
+- Automotive Ethernet: Current State and Challenges
+- Fail-over strategies and routing latencies over Ethernet communication
+- Latency and Bandwidth management for SDV based architectures
+- Solutions to provide end to end latency guarantees
+- Core challenges in the realization of Central and Zonal Computes
+- Function offloading and strategies
+- Solutions for safe and secure over the air updates
+- Resource allocation and optimization strategies
+- Verification and Validation solutions for SDVs
+- Automotive Chiplets to support centralized architectures in SDV
+- Reliability, availability and Serviceability
+- Solutions to strengthen cybersecurity of SDVs including testing, validation and standardized frameworks 
 
 
-**Effects of Automation on Traffic**: Data-driven predictions can end up being implicitly conditioned on second-order effects. For example, seeing a recording vehicle or no driver in an autonomous car can influence traffic participant’s decisions. Fixed settings in automated functions, such as safe distances, can influence the traffic flow on highways. While this can potentially introduce a distribution shift for prediction algorithms it could be also leveraged to purposefully shape traffic. We invite therefore also approaches investigating these second-order effects, propagating in highly interactive scenarios.
 
 ## Preliminary Agenda
 {% include schedule %}
