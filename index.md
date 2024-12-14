@@ -25,7 +25,7 @@ organizers_row:
     alt: "Thomas"
     person_name: "Thomas Kuehbeck"
     person_affiliation: "Woven by Toyota"
-  - image_path: assets/images/Joytika_Athavale.jpg
+  - image_path: assets/images/Jyotika_Athavale.jpg
     alt: "Joytika"
     person_name: "Joytika Athavale"
     person_affiliation: "Synopsys"
