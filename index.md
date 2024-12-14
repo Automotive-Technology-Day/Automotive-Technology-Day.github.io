@@ -63,7 +63,7 @@ Submission may come from both acamdemia and industry with one page abstract to d
 - Specific Use Cases targeted with the porposed solution/discussion
 - Potential KPIs and Assumptions for the solutions adoption 
 
-## Organizers
+## Program Committee
 {% include feature_row id="organizers_row" %}
 
 
