@@ -5,8 +5,8 @@ header:
   overlay_filter: "0.5"
   overlay_image: assets/images/header_from_unsplash_dot_com.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-title: 'Interaction-driven Behavior Prediction and Planning for Autonomous Vehicles'
-excerpt: 'An ITSC2024 workshop.'
+title: 'Autmotive Technology Day: Enabling Technologies for Software-Defined Vehicles'
+excerpt: 'A CPSWeek event'
 
 organizers_row:
   - image_path: https://cloud.minesparis.psl.eu/index.php/s/8Ih7coZPaAkRkId/download
@@ -51,23 +51,7 @@ organizers_row:
     person_affiliation: "Karlsruhe Institute of Technology (KIT)"
 
 schedule:
-  - time: "8:30 - 8:40"
-    event: "Organizers"
-    content: "Introduction"
-  - time: "8:40 - 10:00"
-    event: "TBA"
-    content: "Regular Talks 1-4"
-  - time: "10:00 - 10:30"
-    break: "Coffee Break"
-  - time: "10:30 - 11:30"
-    event: "TBA"
-    content: "Regular Talks 5-7"
-  - time: "11:30 - 11:50"
-    event: "TBA"
-    content: "Keynote"
-  - time: "11:50 - 12:00"
-    event: "Organizers"
-    content: "Conclusion"
+
 ---
 
 This workshop will be held at the [27th IEEE International Conference on Intelligent Transportation Systems (ITSC)](https://ieee-itsc.org/2024/), on September 24 - 27, 2024
