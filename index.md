@@ -13,14 +13,18 @@ organizers_row:
     alt: "Shashank"
     person_name: "Shashank Gaur"
     person_affiliation: "TTTech Auto"
-  - image_path: https://cloud.minesparis.psl.eu/index.php/s/QdPGyNJqiVWReXo/download
-    alt: "Marcel"
-    person_name: "Marcel Hallgarten"
-    person_affiliation: "University of Tübingen / Bosch"
-  - image_path: https://cloud.minesparis.psl.eu/index.php/s/uM0S69C2HvK1P0g/download
-    alt: "Max"
-    person_name: "Maximilian Naumann"
-    person_affiliation: "Bosch Center for Artificial Intelligence (BCAI)"
+  - image_path: assets/images/Bloor.jpg
+    alt: "Thomas"
+    person_name: "Thomas Bloor"
+    person_affiliation: "RTI"
+  - image_path: assets/images/Andreas_Bosch.jpg
+    alt: "Andrea"
+    person_name: "Andreas Achtzehm"
+    person_affiliation: "Bosch"
+  - image_path: assets/images/Jyotika_Athavale.jpg
+    alt: "Joytika"
+    person_name: "Jyotika Athavale"
+    person_affiliation: "Synosys"
  
 
 schedule:
@@ -51,10 +55,8 @@ This event invites OEMs, suppliers, silicon vendors, tool providers, experts, sc
 - Reliability, availability and Serviceability
 - Solutions to strengthen cybersecurity of SDVs including testing, validation and standardized frameworks 
 
-
-
-## Preliminary Agenda
-{% include schedule %}
+## Call for Submissions
+To be announced soon.
 
 ## Organizers
 {% include feature_row id="organizers_row" %}
