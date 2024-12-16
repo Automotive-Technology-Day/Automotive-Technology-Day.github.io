@@ -5,21 +5,25 @@ header:
   overlay_filter: "0.5"
   overlay_image: assets/images/header_from_unsplash_dot_com.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-title: 'Automotive Technology Day: Enabling Technologies for Software-Defined Vehicles'
-excerpt: 'A CPSWeek event'
+title: 'Automotive Technology Day: Enabling Technologies for Software-Defined Vehicles(SDVs)'
+excerpt: 'A CPSWeek 2025 event'
 
 organizers_row:
   - image_path: assets/images/Shashank_Cropped.jpg
     alt: "Shashank"
     person_name: "Shashank Gaur"
     person_affiliation: "TTTech Auto"
+  - image_path: assets/images/placeholder.jpg
+    alt: "Ahsan"
+    person_name: "Ahsan Qamar"
+    person_affiliation: "Ford"
   - image_path: assets/images/Bloor.jpg
     alt: "Bloor"
     person_name: "Thomas Bloor"
     person_affiliation: "RTI"
   - image_path: assets/images/Andreas_Bosch.jpg
     alt: "Andrea"
-    person_name: "Andreas Achtzehm"
+    person_name: "Andreas Achtzehn"
     person_affiliation: "Bosch"
   - image_path: assets/images/placeholder.jpg
     alt: "Thomas"
@@ -35,7 +39,8 @@ schedule:
 
 ---
 
-This Event will be held at the CPSWeek 2025. Please Check info on other events at [CPSWeek 2025 website](https://cps-iot-week2025.ics.uci.edu/events.php)
+This Event will be held at the CPSWeek 2025. Please Check info on other events at [CPSWeek 2025 website](https://cps-iot-week2025.ics.uci.edu/events.php).
+
 ## Scope
 
 The transition to Software-Defined Vehicles (SDVs) necessitates a shift from distributed to high-performance more centralized and zonal E/E architecture, driven by the requirements for continuous updates, better user experience, and advanced functionalities. This transformation complicates the integration of safety-critical applications due to the rapidly increasing demands on software and hardware. Traditional OEMs, relying on various suppliers, face challenges in deployment with frequent updates, resource optimization, and managing different ECU/vehicle variants. Many existing solutions lack flexibility, leading to increased testing efforts, unreliable critical functions, and timeline delays. Addressing these issues require formal description of the SW functions and communication, automation in deployment, the separation of safe and unsafe software, predictable resource utilization, and dynamic configuration of communication networks with end-to-end guarantees. This event invites presentations aiming at solutions for these challenges as well as extended issues that safety-critical and real-time systems encounter in the automotive industry.  
@@ -62,8 +67,8 @@ This event invites OEMs, suppliers, silicon vendors, tool providers, experts, sc
 ## Call for Submissions
 Dates to be announced soon.
 
-Submission may come from both academia and industry with one page abstract to define challenges on a relevant area/topics. Abstract must include three major components: 
-- Problem Statement within selected topic/area
+Submission may come from both academia and industry with one page abstract to define challenges on a relevant topics. Abstract must include three major components: 
+- Problem Statement within selected topics
 - Specific Use Cases targeted with the porposed solution/discussion
 - Potential KPIs and Assumptions for the solutions adoption 
 
@@ -71,6 +76,6 @@ Submission may come from both academia and industry with one page abstract to de
 {% include feature_row id="organizers_row" %}
 
 
-Please get in touch with shashank.gaur(at)tttech-auto.com or any of the organizers in case you have any further questions.
+Please get in touch with shashank.gaur(at)tttech-auto.com in case you have any further questions.
 
 
