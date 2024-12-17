@@ -67,8 +67,8 @@ This event invites OEMs, suppliers, silicon vendors, tool providers, experts, sc
 ## Call for Submissions
 Dates to be announced soon.
 
-Submission may come from both academia and industry with one page abstract to define challenges on a relevant topics. Abstract must include three major components: 
-- Problem Statement within selected topics
+Submission may come from both academia and industry with one page abstract to define challenges on relevant topic(s). Abstract must include three major components: 
+- Problem Statement within the selected topic(s)
 - Specific Use Cases targeted with the porposed solution/discussion
 - Potential KPIs and Assumptions for the solutions adoption 
 
