@@ -6,7 +6,7 @@ header:
   overlay_image: assets/images/header_from_unsplash_dot_com.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 title: 'Automotive Technology Day: Enabling Technologies for Software-Defined Vehicles(SDVs)'
-excerpt: 'A CPSWeek 2025 event'
+excerpt: '6 May 2025 at CPSWeek 2025'
 
 organizers_row:
   - image_path: assets/images/Shashank_Cropped.jpg
@@ -65,7 +65,13 @@ This event invites OEMs, suppliers, silicon vendors, tool providers, experts, sc
 - Solutions to strengthen cybersecurity of SDVs including testing, validation and standardized frameworks 
 
 ## Call for Submissions
-Dates to be announced in February 2025.
+Submissions are open, please fill the form at the end of this page to submit your talk.
+
+Deadline for submissions: 3 Mar 2025
+Acceptance notification:  14 Mar 2025
+Presentation sumbission: 28 Mar 2025
+Final versions: 11 April 2025
+Event date: 6 May 2025
 
 Submission may come from both academia and industry with one page abstract to define challenges on relevant topic(s). Abstract must include three major components: 
 - Problem Statement within the selected topic(s)
