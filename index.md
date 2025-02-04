@@ -39,7 +39,7 @@ schedule:
 
 ---
 
-This Event will be held at the CPSWeek 2025. Please Check info on other events at [CPSWeek 2025 website](https://cps-iot-week2025.ics.uci.edu/events.php).
+This Event will be held on 6 May 2025 at the CPSWeek. Please Check info on other events at [CPSWeek 2025 website](https://cps-iot-week2025.ics.uci.edu/events.php).
 
 ## Scope
 
