@@ -65,7 +65,7 @@ This event invites OEMs, suppliers, silicon vendors, tool providers, experts, sc
 - Solutions to strengthen cybersecurity of SDVs including testing, validation and standardized frameworks 
 
 ## Call for Submissions
-Dates to be announced soon.
+Dates to be announced in February 2025.
 
 Submission may come from both academia and industry with one page abstract to define challenges on relevant topic(s). Abstract must include three major components: 
 - Problem Statement within the selected topic(s)
