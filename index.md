@@ -65,24 +65,24 @@ This event invites OEMs, suppliers, silicon vendors, tool providers, experts, sc
 - Solutions to strengthen cybersecurity of SDVs including testing, validation and standardized frameworks 
 
 ## Call for Submissions
-Submissions are open, please fill the form at the end of this page to submit your talk.
+Submissions are open, please fill the form below.
 
-Deadline for submissions: 3 Mar 2025
-Acceptance notification:  14 Mar 2025
-Presentation sumbission: 28 Mar 2025
-Final versions: 11 April 2025
-Event date: 6 May 2025
+- Deadline for submissions: 3 Mar 2025
+- Acceptance notification:  14 Mar 2025
+- Presentation sumbission: 28 Mar 2025
+- Final versions: 11 April 2025
+- Event date: 6 May 2025
 
 Submission may come from both academia and industry with one page abstract to define challenges on relevant topic(s). Abstract must include three major components: 
 - Problem Statement within the selected topic(s)
 - Specific Use Cases targeted with the porposed solution/discussion
 - Potential KPIs and Assumptions for the solutions adoption 
+## Submission Form
+{% include submissions.html %}
 
 ## Program Committee
 {% include feature_row id="organizers_row" %}
 
-## Submission
-{% include submissions.html %}
 
 Please get in touch with shashank.gaur(at)tttech-auto.com in case you have any further questions.
 
