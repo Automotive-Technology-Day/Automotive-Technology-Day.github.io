@@ -1,16 +1,87 @@
 <!-- modify this form HTML and place wherever you want your form -->
 <form
-  action="https://formspree.io/f/xgvoyjoz"
+  action="https://formspree.io/f/{FORM_ID}"
+  class="fs-form fs-layout__2-column"
+  target="_top"
   method="POST"
 >
-  <label>
-    Your email:
-    <input type="email" name="email">
-  </label>
-  <label>
-    Your message:
-    <textarea name="message"></textarea>
-  </label>
-  <!-- your other form fields go here -->
-  <button type="submit">Send</button>
+  <fieldset>
+    <div class="fs-field">
+      <label class="fs-label" for="name">Name</label>
+      <input class="fs-input" id="name" name="name" required />
+    </div>
+    <div class="fs-field">
+      <label class="fs-label" for="email">Email</label>
+      <input class="fs-input" id="email" name="email" required />
+    </div>
+    <div class="fs-field">
+      <label class="fs-label" for="title">Presentation Title</label>
+      <input class="fs-input" id="title" name="title" required />
+    </div>
+    <div class="fs-field">
+      <label class="fs-label" for="presenters">Presenter(s) name, organisation, and email address</label>
+      <textarea
+        class="fs-textarea"
+        id="presenters"
+        name="presenters"
+        required
+      ></textarea>
+    </div>
+    <div class="fs-field">
+      <label class="fs-label" for="topic">Please choose the relevant topic of the presentation</label>
+      <select class="fs-select" id="topic" name="topic" required>
+        <option value="A">Middleware solutions for Software Defined Vehicles</option>
+        <option value="B">Modeling solutions for mixed criticality systems</option>
+        <option value="C">Solutions for Timing and Communication guarantees in cloud based architectures</option>
+        <option value="D">Automotive Ethernet: Current State and Challenges</option>
+        <option value="E">Fail-over strategies and routing latencies over Ethernet communication</option>
+        <option value="F">Latency and Bandwidth management for SDV based architectures</option>
+        <option value="G">Solutions to provide end to end latency guarantees</option>
+        <option value="H">Core challenges in the realization of Central and Zonal Computes</option>
+        <option value="I">Function offloading and strategies</option>
+        <option value="J">Solutions for safe and secure over the air updates</option>
+        <option value="K">Resource allocation and optimization strategies</option>
+        <option value="L">Verification and Validation solutions for SDVs</option>
+        <option value="M">Automotive Chiplets to support centralized architectures in SDV</option>
+        <option value="N">Reliability, availability and Serviceability</option>
+        <option value="O">Solutions to strengthen cybersecurity of SDVs including testing, validation and standardized frameworks</option>
+      </select>
+    </div>
+    <div class="fs-field">
+      <label class="fs-label" for="abstract">Abstract</label>
+      <textarea
+        class="fs-textarea"
+        id="abstract"
+        name="abstract"
+        required
+      ></textarea>
+      <p class="fs-description">Please submit an abstract covering a problem statement, few use-cases and relevant KPIs for proposed solution</p>
+    </div>
+  </fieldset>
+  <div class="fs-checkbox-field">
+    <div class="fs-checkbox-wrapper">
+      <input
+        aria-describedby="dpa-consent-description"
+        class="fs-checkbox"
+        id="dpa-consent"
+        name="dpa-consent"
+        required
+        type="checkbox"
+        value="consent"
+      />
+    </div>
+    <div>
+      <label class="fs-label" for="dpa-consent">
+        Declaration of consent for data processing
+      </label>
+      <p class="fs-description" id="dpa-consent-description">
+        You agree that your data from the form will be collected and processed
+        for review and communication purpuses. You can revoke your consent at any time for the
+        future by e-mail to shashank.gaur@tttech-auto.com
+      </p>
+    </div>
+  </div>
+  <div class="fs-button-group">
+    <button class="fs-button" type="submit">Submit</button>
+  </div>
 </form>
