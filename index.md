@@ -75,6 +75,8 @@ Submission may come from both academia and industry with one page abstract to de
 ## Program Committee
 {% include feature_row id="organizers_row" %}
 
+{% include contact-form.html %}
+
 
 Please get in touch with shashank.gaur(at)tttech-auto.com in case you have any further questions.
 
