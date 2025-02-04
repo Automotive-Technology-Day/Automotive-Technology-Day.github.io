@@ -76,7 +76,7 @@ Submission may come from both academia and industry with one page abstract to de
 {% include feature_row id="organizers_row" %}
 
 ## Submission
-{% include contact-form.html %}
+{% include contact_form.html %}
 
 Please get in touch with shashank.gaur(at)tttech-auto.com in case you have any further questions.
 
