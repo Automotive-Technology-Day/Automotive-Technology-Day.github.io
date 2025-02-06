@@ -6,7 +6,7 @@ header:
   overlay_image: assets/images/header_from_unsplash_dot_com.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 title: 'Automotive Technology Day: Enabling Technologies for Software-Defined Vehicles(SDVs)'
-excerpt: '6 May 2025 at CPSWeek 2025'
+excerpt: '6 May 2025 at CPS-IoT Week 2025'
 
 organizers_row:
   - image_path: assets/images/Shashank_Cropped.jpg
@@ -30,8 +30,8 @@ organizers_row:
     person_name: "Thomas Kuehbeck"
     person_affiliation: "Woven by Toyota"
   - image_path: assets/images/Jyotika_Athavale.jpg
-    alt: "Joytika"
-    person_name: "Joytika Athavale"
+    alt: "Jyotika"
+    person_name: "Jyotika Athavale"
     person_affiliation: "Synopsys"
  
 
@@ -39,7 +39,7 @@ schedule:
 
 ---
 
-This Event will be held on 6 May 2025 at the CPSWeek. Please Check info on other events at [CPSWeek 2025 website](https://cps-iot-week2025.ics.uci.edu/events.php).
+This Event will be held on 6 May 2025 at the CPS-IoT Week. Please Check info on other events at [CPS-IoT Week 2025 website](https://cps-iot-week2025.ics.uci.edu/events.php).
 
 ## Scope
 
@@ -69,7 +69,7 @@ Submissions are open, please fill the form below.
 
 - Deadline for submissions: 3 Mar 2025
 - Acceptance notification:  14 Mar 2025
-- Presentation sumbission: 28 Mar 2025
+- Presentation submission: 28 Mar 2025
 - Final versions: 11 April 2025
 - Event date: 6 May 2025
 
