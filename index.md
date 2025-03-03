@@ -8,11 +8,6 @@ header:
 title: 'Automotive Technology Day: Enabling Technologies for Software-Defined Vehicles(SDVs)'
 excerpt: '6 May 2025 at CPS-IoT Week 2025'
 
-speakers_row:
-  - image_path: assets/images/vijay.jpg
-    alt: "Vijay"
-    person_name: "Vijay Chavan"
-    person_affiliation: "Director Autonomous Driving, Mercedes-Benz Research and Development North America"
   
 
 organizers_row:
@@ -53,7 +48,13 @@ This Event will be held on 6 May 2025 at the CPS-IoT Week. Please Check info on 
 The transition to Software-Defined Vehicles (SDVs) necessitates a shift from distributed to high-performance more centralized and zonal E/E architecture, driven by the requirements for continuous updates, better user experience, and advanced functionalities. This transformation complicates the integration of safety-critical applications due to the rapidly increasing demands on software and hardware. Traditional OEMs, relying on various suppliers, face challenges in deployment with frequent updates, resource optimization, and managing different ECU/vehicle variants. Many existing solutions lack flexibility, leading to increased testing efforts, unreliable critical functions, and timeline delays. Addressing these issues require formal description of the SW functions and communication, automation in deployment, the separation of safe and unsafe software, predictable resource utilization, and dynamic configuration of communication networks with end-to-end guarantees. This event invites presentations aiming at solutions for these challenges as well as extended issues that safety-critical and real-time systems encounter in the automotive industry.  
 
 ## Keynotes
-{% include feature_row id="speakers_row" %}
+||
+| :-: |
+| <img src="https://automotive-technology-day.github.io/assets/images/vijay.jpg" width="196" height="250"> | 
+| **Vijay Chavan**<br /> Director Autonomous Driving <br /> Mercedes-Benz Research and Development North America |
+ 
+
+
 
 ## Topics
 This event invites OEMs, suppliers, silicon vendors, tool providers, experts, scientists, and leaders to exchange ideas and discuss trends. Submissions for abstracts for presentations are invited around solutions and technologies relevant to SDVs such as following but not limited to: 
