@@ -67,10 +67,10 @@ This event invites OEMs, suppliers, silicon vendors, tool providers, experts, sc
 ## Call for Submissions
 Submissions are open, please fill the form below.
 
-- Deadline for submissions: 3 Mar 2025
-- Acceptance notification:  14 Mar 2025
-- Presentation submission: 28 Mar 2025
-- Final versions: 11 April 2025
+- Deadline for submissions: 17 Mar 2025
+- Acceptance notification:  31 Mar 2025
+- Presentation submission: 10 April 2025
+- Final versions: 21 April 2025
 - Event date: 6 May 2025
 
 Submission may come from both academia and industry with one page abstract to define challenges on relevant topic(s). Abstract must include three major components: 
