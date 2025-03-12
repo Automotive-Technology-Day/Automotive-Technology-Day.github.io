@@ -49,7 +49,11 @@ The transition to Software-Defined Vehicles (SDVs) necessitates a shift from dis
 
 ## Keynotes
 <img src="https://automotive-technology-day.github.io/assets/images/vijay.jpg" width="196" height="250"> <br />
- **Vijay Chavan**<br /> Director Autonomous Driving <br /> Mercedes-Benz Research and Development North America 
+ **Vijay Chavan**<br /> Director Autonomous Driving <br /> Mercedes-Benz Research and Development North America
+ <img src="https://automotive-technology-day.github.io/assets/images/Chris.jpg" width="196" height="250"> <br />
+ **Christopher Rumpf**<br /> Senior Director Automotive <br /> ARM  <br />
+ <img src="https://automotive-technology-day.github.io/assets/images/Jegan.jpg" width="196" height="250"> <br />
+ **Jegan Arthanari**<br /> Global VP and Head of Automotive Sales and Solutions <br /> Wind River <br />
  
 
 
