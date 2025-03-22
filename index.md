@@ -77,6 +77,26 @@ This event invites OEMs, suppliers, silicon vendors, tool providers, experts, sc
 - Reliability, availability and Serviceability
 - Solutions to strengthen cybersecurity of SDVs including testing, validation and standardized frameworks 
 
+## Preliminary Agenda
+
+||||||
+| :-: | :-: | :-: | :-: | :-: |
+| **Time** | **Event** | **Speaker** | **Title** | **Designation and Organization** |
+|09:00 - 09:20 AM|Opening Ceremony||||
+|09:20 - 09:50 AM|Keynote Speech|Vijay Chavan||Director Autonomous Driving, Mercedes-Benz Research and Development North America|
+|10:00 - 10:30 AM|Panel|Vijay Chavan|Panel with Keynote Speakers||
+|10:30 - 11:00 AM|Coffee Break|||
+|11:00 - 11:30 AM|Keynote Speech|Jegan Arthanari||Global VP and Head of Automotive Sales and Solutions, Wind River|
+|11:30 - 12:30 PM|Talks|Theme B|3 Talks|Selected Research|
+|12:30 - 02:00 PM|Lunch Break|||
+|02:00 - 03:00 PM|Talks|Theme C|3 Talks|Selected Research|
+|03:00 - 03:30 PM|Keynote Speech|Christopher Rumpf||Senior Director, Automotive, ARM|
+|03:30 - 04:00 PM|Coffee Break|||
+|04:00 - 05:00 PM|Talks|Theme D|3 Talks|Selected Research|
+|05:00 - 05:30 PM|Closing Notes|Closing Ceremony followed by a newtorking session|||
+
+
+
 ## Call for Submissions
 Submissions are open, please fill the form below.
 
