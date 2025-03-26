@@ -112,8 +112,6 @@ Submission may come from both academia and industry with one page abstract to de
 - Potential KPIs and Assumptions for the solutions adoption
 
 Presentations will only be shared with registered audience of the event with permission from speakers and their organizations.
-## Submission Form
-{% include submissions.html %}
 
 ## Program Committee
 {% include feature_row id="organizers_row" %}
