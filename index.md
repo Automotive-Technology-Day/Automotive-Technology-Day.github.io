@@ -101,7 +101,6 @@ This event invites OEMs, suppliers, silicon vendors, tool providers, experts, sc
 
 
 ## Call for Submissions
-Submissions are open, please fill the form below.
 
 - Deadline for submissions: 21 Mar 2025
 - Acceptance notification:  31 Mar 2025
