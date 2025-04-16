@@ -82,7 +82,7 @@ This event invites OEMs, suppliers, silicon vendors, tool providers, experts, sc
 ||||||
 | :-: | :-: | :-: | :-: | :-: |
 | **Time** | **Event** | **Title** | **Speaker** | **Organization** |
-|09:00 - 09:15 AM|Opening notes: Building safe, secure and deterministic software defined vehicles by Program Committee||||
+|09:00 - 09:15 AM|Opening note| Building safe, secure and deterministic software defined vehicles | Dr Shashank Gaur| Program Committee|
 |09:15 - 09:55 AM|Keynote|Title: TBD|Vijay Chavan|Director Autonomous Driving, Mercedes-Benz Research and Development North America|
 |10:00 - 10:25 AM|Talk|Managing MPSoC Memory Interference on SDV Architectures|Andrea Bastoni, Aleander Zuepke, Marco Solieri|TUM/Minerva Systems|
 |10:30 - 11:00 AM|Coffee Break|||
@@ -96,7 +96,7 @@ This event invites OEMs, suppliers, silicon vendors, tool providers, experts, sc
 |03:30 - 04:00 PM|Coffee Break|||
 |04:00 - 04:25 PM|Talk|GAIA-X4AGEDA: Enabling Data-Driven and Adaptive Vehicle Architectures for the Mobility of the Future |Prof. Dr. Achim Rettberg |Scientific Lead of GAIA-X4AGEDA, University of Applied Sciences Hamm-Lippstadt, Germany|
 |04:25 - 04:50 PM|Talk|TCUs in the real world|Fred Bauer|Senior Software Engineer, Zoox|
-|05:00 - 05:15 PM|Closing Notes|Closing Ceremony followed by a newtorking session|||
+|05:00 - 05:15 PM|Closing Notes|Closing Ceremony followed by a newtorking session| Dr Shashank Gaur| Program Committee|
 
 
 
