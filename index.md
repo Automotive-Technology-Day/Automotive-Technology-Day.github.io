@@ -96,7 +96,7 @@ This event invites OEMs, suppliers, silicon vendors, tool providers, experts, sc
 |03:30 - 04:00 PM|Coffee Break|
 |04:00 - 04:25 PM|Talk|GAIA-X4AGEDA: Enabling Data-Driven and Adaptive Vehicle Architectures for the Mobility of the Future |Prof. Dr. Achim Rettberg |Scientific Lead of GAIA-X4AGEDA, University of Applied Sciences Hamm-Lippstadt, Germany|
 |04:25 - 04:50 PM|Talk|TCUs in the real world|Fred Bauer|Senior Software Engineer, Zoox|
-|05:00 - 05:15 PM|Closing Notes|Closing Ceremony followed by a newtorking session| Shashank Gaur| Program Committee|
+|05:00 - 05:15 PM|Closing Notes|Next Challenges for SDV Research| Shashank Gaur| Program Committee|
 
 
 
