@@ -81,19 +81,22 @@ This event invites OEMs, suppliers, silicon vendors, tool providers, experts, sc
 
 ||||||
 | :-: | :-: | :-: | :-: | :-: |
-| **Time** | **Event** | **Speaker** | **Title** | **Designation and Organization** |
-|09:00 - 09:20 AM|Opening Ceremony||||
-|09:20 - 09:50 AM|Keynote Speech|Vijay Chavan||Director Autonomous Driving, Mercedes-Benz Research and Development North America|
-|10:00 - 10:30 AM|Panel|Vijay Chavan|Panel with Keynote Speakers||
+| **Time** | **Event** | **Title** | **Speaker** | **Organization** |
+|09:00 - 09:15 AM|Opening notes: Building safe, secure and deterministic software defined vehicles by Program Committee||||
+|09:15 - 09:55 AM|Keynote|Title: TBD|Vijay Chavan|Director Autonomous Driving, Mercedes-Benz Research and Development North America|
+|10:00 - 10:25 AM|Talk|Managing MPSoC Memory Interference on SDV Architectures|Andrea Bastoni, Aleander Zuepke, Marco Solieri|TUM/Minerva Systems|
 |10:30 - 11:00 AM|Coffee Break|||
-|11:00 - 11:30 AM|Keynote Speech|Jegan Arthanari||Global VP and Head of Automotive Sales and Solutions, Wind River|
-|11:30 - 12:30 PM|Talks|Theme B|3 Talks|Selected Research|
-|12:30 - 02:00 PM|Lunch Break|||
-|02:00 - 03:00 PM|Talks|Theme C|3 Talks|Selected Research|
-|03:00 - 03:30 PM|Keynote Speech|Christopher Rumpf||Senior Director, Automotive, ARM|
+|11:00 - 11:30 AM|Talk|Unseen Risks in Container Adoption for SDVs: Navigating Security Challenges in Automotive Architectures|Michael Fulgencio|VicOne|
+|11:30 - 12:10 AM|Keynote|Making the SDV a reality – changing the paradigm of automotive software development|Christopher Rumpf|Senior Director Automotive at ARM|
+|12:10 - 12:35 PM|Talk|Solving the Challenge of Software Interoperability in Autonomous and ADAS Systems|Dr Rajive Joshi|Real-Time Innovations (RTI)|
+|12:35 - 02:00 PM|Lunch Break|||
+|02:00 - 02:25 PM|Talk|Get ready for feature-oriented vehicle SW development and testing |Emil Dautovic|Remotive|
+|02:25 - 02:50 PM|Talk|Deterministic Scheduling for Autonomous Systems: Challenges, and Our Solution - NVIDIA System Task Manager|Ashutosh Tadkase, Nishant Poorswani, Albert Davies|NVIDIA|
+|02:50 - 03:30 PM|Keynote|Title:TBD|Jegan Arthanari|Global VP Automotive Sales and Solutions, Wind River|
 |03:30 - 04:00 PM|Coffee Break|||
-|04:00 - 05:00 PM|Talks|Theme D|3 Talks|Selected Research|
-|05:00 - 05:30 PM|Closing Notes|Closing Ceremony followed by a newtorking session|||
+|04:00 - 04:25 PM|Talk|GAIA-X4AGEDA: Enabling Data-Driven and Adaptive Vehicle Architectures for the Mobility of the Future |Prof. Dr. Achim Rettberg |Scientific Lead of GAIA-X4AGEDA, University of Applied Sciences Hamm-Lippstadt, Germany|
+|04:25 - 04:50 PM|Talk|TCUs in the real world|Fred Bauer|Senior Software Engineer, Zoox|
+|05:00 - 05:15 PM|Closing Notes|Closing Ceremony followed by a newtorking session|||
 
 
 
