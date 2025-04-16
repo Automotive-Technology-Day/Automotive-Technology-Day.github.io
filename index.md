@@ -57,26 +57,6 @@ The transition to Software-Defined Vehicles (SDVs) necessitates a shift from dis
 | **Vijay Chavan**<br /> Director  <br /> Autonomous Driving <br /> Mercedes-Benz R&D NA | **Christopher Rumpf**<br /> Senior Director<br /> Automotive <br /> ARM |  **Jegan Arthanari**<br /> Global VP <br />  Automotive Sales and Solutions <br /> Wind River |
 
 
-
-## Topics
-This event invites OEMs, suppliers, silicon vendors, tool providers, experts, scientists, and leaders to exchange ideas and discuss trends. Submissions for abstracts for presentations are invited around solutions and technologies relevant to SDVs such as following but not limited to: 
-
-- Middleware solutions for Software Defined Vehicles
-- Modeling solutions for mixed criticality systems
-- Solutions for Timing and Communication guarantees in cloud based architectures
-- Automotive Ethernet: Current State and Challenges
-- Fail-over strategies and routing latencies over Ethernet communication
-- Latency and Bandwidth management for SDV based architectures
-- Solutions to provide end to end latency guarantees
-- Core challenges in the realization of Central and Zonal Computes
-- Function offloading and strategies
-- Solutions for safe and secure over the air updates
-- Resource allocation and optimization strategies
-- Verification and Validation solutions for SDVs
-- Automotive Chiplets to support centralized architectures in SDV
-- Reliability, availability and Serviceability
-- Solutions to strengthen cybersecurity of SDVs including testing, validation and standardized frameworks 
-
 ## Preliminary Agenda
 
 ||||||
@@ -97,6 +77,26 @@ This event invites OEMs, suppliers, silicon vendors, tool providers, experts, sc
 |04:00 - 04:25 PM|Talk|GAIA-X4AGEDA: Enabling Data-Driven and Adaptive Vehicle Architectures for the Mobility of the Future |Prof. Dr. Achim Rettberg |Scientific Lead of GAIA-X4AGEDA, University of Applied Sciences Hamm-Lippstadt, Germany|
 |04:25 - 04:50 PM|Talk|TCUs in the real world|Fred Bauer|Senior Software Engineer, Zoox|
 |05:00 - 05:15 PM|Closing Notes|Next Challenges for SDV Research| Shashank Gaur| Program Committee|
+
+## Topics
+This event invites OEMs, suppliers, silicon vendors, tool providers, experts, scientists, and leaders to exchange ideas and discuss trends. Submissions for abstracts for presentations are invited around solutions and technologies relevant to SDVs such as following but not limited to: 
+
+- Middleware solutions for Software Defined Vehicles
+- Modeling solutions for mixed criticality systems
+- Solutions for Timing and Communication guarantees in cloud based architectures
+- Automotive Ethernet: Current State and Challenges
+- Fail-over strategies and routing latencies over Ethernet communication
+- Latency and Bandwidth management for SDV based architectures
+- Solutions to provide end to end latency guarantees
+- Core challenges in the realization of Central and Zonal Computes
+- Function offloading and strategies
+- Solutions for safe and secure over the air updates
+- Resource allocation and optimization strategies
+- Verification and Validation solutions for SDVs
+- Automotive Chiplets to support centralized architectures in SDV
+- Reliability, availability and Serviceability
+- Solutions to strengthen cybersecurity of SDVs including testing, validation and standardized frameworks 
+
 
 
 
