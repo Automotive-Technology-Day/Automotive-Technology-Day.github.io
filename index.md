@@ -70,7 +70,7 @@ The transition to Software-Defined Vehicles (SDVs) necessitates a shift from dis
 |11:30 - 12:10 AM|Keynote|Making the SDV a reality – changing the paradigm of automotive software development|Christopher Rumpf|Senior Director Automotive at ARM|
 |12:10 - 12:35 PM|Talk|Solving the Challenge of Software Interoperability in Autonomous and ADAS Systems|Dr Rajive Joshi|Real-Time Innovations (RTI)|
 |12:35 - 02:00 PM|Lunch Break|
-|02:00 - 02:25 PM|Talk|Get ready for feature-oriented vehicle SW development and testing |Emil Dautovic|Remotive|
+|02:00 - 02:25 PM|Talk|Get ready for feature-oriented vehicle SW development and testing |Emil Dautovic, Florian Rohde|Remotive, iProcess(Ex-Tesla)|
 |02:25 - 02:50 PM|Talk|Deterministic Scheduling for Autonomous Systems: Challenges, and Our Solution - NVIDIA System Task Manager|Ashutosh Tadkase, Nishant Poorswani, Albert Davies|NVIDIA|
 |02:50 - 03:30 PM|Keynote|Title:TBD|Jegan Arthanari|Global VP Automotive Sales and Solutions, Wind River|
 |03:30 - 04:00 PM|Coffee Break|
