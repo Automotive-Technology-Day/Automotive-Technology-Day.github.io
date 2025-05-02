@@ -67,7 +67,7 @@ The transition to Software-Defined Vehicles (SDVs) necessitates a shift from dis
 | :-: | :-: | :-: | :-: | :-: |
 | **Time** | **Event** | **Title** | **Speaker** | **Organization** |
 |09:00 - 09:15 AM|Opening note| Building safe, secure and deterministic software defined vehicles | Shashank Gaur| Program Committee|
-|09:15 - 09:55 AM|Keynote|Title: TBD|Vijay Chavan|Director Autonomous Driving, Mercedes-Benz Research and Development North America|
+|09:15 - 09:55 AM|Keynote|Middleware for Autonomous Driving Systems|Vijay Chavan|Director Autonomous Driving, Mercedes-Benz Research and Development North America|
 |10:00 - 10:25 AM|Talk|Managing MPSoC Memory Interference on SDV Architectures|Andrea Bastoni, Aleander Zuepke, Marco Solieri|TUM/Minerva Systems|
 |10:30 - 11:00 AM|Coffee Break|
 |11:00 - 11:30 AM|Talk|Unseen Risks in Container Adoption for SDVs: Navigating Security Challenges in Automotive Architectures|Michael Fulgencio|VicOne|
@@ -76,7 +76,7 @@ The transition to Software-Defined Vehicles (SDVs) necessitates a shift from dis
 |12:35 - 02:00 PM|Lunch Break|
 |02:00 - 02:25 PM|Talk|Get ready for feature-oriented vehicle SW development and testing |Emil Dautovic, Florian Rohde|Remotive, iProcess(Ex-Tesla)|
 |02:25 - 02:50 PM|Talk|Deterministic Scheduling for Autonomous Systems: Challenges, and Our Solution - NVIDIA System Task Manager|Ashutosh Tadkase, Nishant Poorswani, Albert Davies|NVIDIA|
-|02:50 - 03:30 PM|Keynote|Title:TBD|Jegan Arthanari|Global VP Automotive Sales and Solutions, Wind River|
+|02:50 - 03:30 PM|Keynote|Addressing the SDV challenges through Cloud native architectures|Jegan Arthanari|Global VP Automotive Sales and Solutions, Wind River|
 |03:30 - 04:00 PM|Coffee Break|
 |04:00 - 04:25 PM|Talk|GAIA-X4AGEDA: Enabling Data-Driven and Adaptive Vehicle Architectures for the Mobility of the Future |Prof. Dr. Achim Rettberg |Scientific Lead of GAIA-X4AGEDA, University of Applied Sciences Hamm-Lippstadt, Germany|
 |04:25 - 04:50 PM|Talk|TCUs in the real world|Fred Bauer|Senior Software Engineer, Zoox|
