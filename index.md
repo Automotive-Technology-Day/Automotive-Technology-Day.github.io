@@ -43,6 +43,8 @@ schedule:
 
 This Event will be held on 6 May 2025 at the CPS-IoT Week. Please Check info on other events at [CPS-IoT Week 2025 website](https://cps-iot-week2025.ics.uci.edu/events.php).
 
+The event will take place in Emerald Bay C at the [UC Irvine Student Center](https://studentcenter.uci.edu/events/venue-information/the-uci-student-center/)
+
 Register today for the Event at [this link](https://web.cvent.com/event/677248d9-88e5-42ca-9282-5ad4c2a1afcb/summary).
 
 You may register for just one day using Tutorial/Workshop only registration option.
